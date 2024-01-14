@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babyuniverse/server.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Universe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/babyuniverse/server/issues"
+  },
+  "homepage": "https://github.com/babyuniverse/server#readme"
+}
